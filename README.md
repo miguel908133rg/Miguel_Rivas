@@ -10,7 +10,7 @@ I am a junior programmer and web designer👨‍🎓
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, HTML, CSS, Python, Java,],
    technologies: {
       frontEnd: {
          js: ["React"],
