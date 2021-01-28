@@ -14,7 +14,8 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: [ "Material Design",]
+         css: [ "Material Design"],
+         learning:[read, bash],
       },
       backEnd: {
          java: ["Spring"],
